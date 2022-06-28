@@ -7,6 +7,7 @@ url:https://www.amazon.in/Redmi-Storage-Additional-Exchange-Included/product-rev
 2. FLipkart scraping
 
 url: https://www.flipkart.com/furniture/mattresses/pr?sid=wwe%2Crg9&otracker=nmenu_sub_Home+%26Furniture_0_Mattresses&page=1
+
 I have scraped upto 25 pages with the below contents
 * Peoduct Name
 * Product Price
